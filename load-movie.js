@@ -1,4 +1,4 @@
-fetch("https://bejokun.github.io/cpagrip/exit-movie.html")
+fetch("https://bejokun.github.io/cpagrip/ouibounce-movi.html")
   .then(response => {
     return response.text()
   })
