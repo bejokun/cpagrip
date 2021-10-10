@@ -9,7 +9,7 @@
 }
 
 #ouibounce-modal .underlay {
-	width: 70%;
+	width: 100%;
 	height: 100%;
 	position: absolute;
 	top: 0;
@@ -37,7 +37,7 @@
 }
 
 #ouibounce-modal .modal-title {
-	font-size: 18px;
+	font-size: 16px;
 	background-color: #252525;
 	color: #fff;
 	padding: 10px;
