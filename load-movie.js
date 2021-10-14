@@ -3,5 +3,5 @@ fetch("https://bejokun.github.io/cpagrip/ouibounce-movi.html")
     return response.text()
   })
   .then(data => {
-    document.querySelector("body").innerHTML = data;
+    document.getElementById("body").innerHTML += data;
   });
